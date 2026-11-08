@@ -1,0 +1,17 @@
+{
+  "name": "Klepsydra – minutnik dla malucha",
+  "short_name": "Klepsydra",
+  "description": "Duży, realistyczny minutnik-klepsydra dla dziecka. Dotknij i patrz, jak leci piasek.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1e3f",
+  "theme_color": "#0b1e3f",
+  "lang": "pl",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
